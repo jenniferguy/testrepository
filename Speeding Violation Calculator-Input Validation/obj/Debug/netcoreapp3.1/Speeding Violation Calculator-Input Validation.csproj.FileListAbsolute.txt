@@ -1,0 +1,13 @@
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\obj\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.csprojAssemblyReference.cache
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\obj\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.AssemblyInfoInputs.cache
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\obj\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.AssemblyInfo.cs
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\obj\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\bin\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.exe
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\bin\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.deps.json
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\bin\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.runtimeconfig.json
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\bin\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.runtimeconfig.dev.json
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\bin\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.dll
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\bin\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.pdb
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\obj\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.dll
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\obj\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.pdb
+C:\Users\Jennifer\source\repos\Speeding Violation Calculator-Input Validation\Speeding Violation Calculator-Input Validation\obj\Debug\netcoreapp3.1\Speeding Violation Calculator-Input Validation.genruntimeconfig.cache
